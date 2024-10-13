@@ -1,0 +1,22 @@
+caca_ao_monstro/
+├── src/
+│   ├── game.py
+│   ├── player.py
+│   ├── monster.py
+│   ├── grid.py
+│   ├── utils.py
+│   └── __init__.py
+├── tests/
+│   ├── test_game.py
+│   ├── test_player.py
+│   ├── test_monster.py
+│   ├── test_grid.py
+│   └── __init__.py
+├── assets/
+│   └── README.md
+├── docs/
+│   └── README.md
+├── .gitignore
+├── README.md
+├── requirements.txt
+└── setup.py

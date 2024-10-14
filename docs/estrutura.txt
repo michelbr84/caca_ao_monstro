@@ -15,7 +15,7 @@ caca_ao_monstro/
 ├── assets/
 │   └── README.md
 ├── docs/
-│   └── README.md
+│   └── 
 ├── .gitignore
 ├── README.md
 ├── requirements.txt
